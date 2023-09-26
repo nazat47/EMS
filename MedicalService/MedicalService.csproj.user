@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adminforms\AdminMediators.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adminforms\AdminProviders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adminforms\AdminService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Adminforms\AdminUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Button_WOC.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Mediator_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\My_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ProviderPassReset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Provider_Ambulance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Provider_FirstAid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Provider_Medicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Provider_Tools.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Requested_Services.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\HOME.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\UserPassReset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Intro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Provider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ServiceUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\UserAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\UserBilling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\UserHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\UserRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\UserSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\User_Ambulance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\User_FirstAid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\User_Medicine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserForms\User_Tools.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
