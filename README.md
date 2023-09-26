@@ -1,2 +1,2 @@
 # .NET Project
-It is simple .net project which is intended to use for emergency medical service purpose
+It is .net project made using windows forms which is intended to use for emergency medical service purpose
